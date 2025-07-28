@@ -51,7 +51,7 @@ const LandscapeProducts = () => {
   ];
 
   return (
-    <div className="my-12 px-4 lg:px-16" data-aos="fade-up">
+    <div className="my-12 px-4 lg:px-16 mt-10" data-aos="fade-up">
       <h2 className="text-3xl font-bold text-center mb-8">Landscape Products</h2>
 
       <Swiper

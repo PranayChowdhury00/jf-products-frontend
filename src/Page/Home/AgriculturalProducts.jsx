@@ -51,7 +51,7 @@ const AgriculturalProducts = () => {
   ];
 
   return (
-    <div className="my-12 px-4 lg:px-16 mb-10" data-aos="fade-up">
+    <div className="my-12 px-4 lg:px-16 mb-20" data-aos="fade-up">
       <h2 className="text-3xl font-bold  mb-8">
         Agricultural Products
       </h2>

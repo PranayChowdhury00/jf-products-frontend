@@ -1,6 +1,7 @@
 
 import AgriculturalProducts from './AgriculturalProducts';
 import Banner from './Banner';
+import Customers from './Customers';
 import LandscapeProducts from './landscapeproducts';
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
    <Banner></Banner>
    <AgriculturalProducts></AgriculturalProducts>
    <LandscapeProducts></LandscapeProducts>
+   <Customers></Customers>
   </div>
  );
 };
