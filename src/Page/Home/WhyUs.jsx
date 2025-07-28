@@ -66,6 +66,10 @@ const WhyUs = () => {
           </div>
         </div>
       </div>
+      <div className="text-center my-5">
+       <button className="btn bg-[#B0DD1D] ">Contact Us</button>
+      </div>
+
     </div>
   );
 };

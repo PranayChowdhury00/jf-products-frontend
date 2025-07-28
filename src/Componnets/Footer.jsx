@@ -1,10 +1,13 @@
-import React from 'react';
+
 
 const Footer = () => {
  return (
-  <div>
-   
-  </div>
+  <footer className=" bg-blue-900 w-full h-[400px]">
+   <div className="">
+      
+   </div>
+
+  </footer>
  );
 };
 
