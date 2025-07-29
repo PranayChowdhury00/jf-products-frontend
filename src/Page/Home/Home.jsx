@@ -1,6 +1,7 @@
 
 import AgriculturalProducts from './AgriculturalProducts';
 import Banner from './Banner';
+import ContactPage from './ContactPage';
 
 
 import Customers from './Customers';
@@ -19,6 +20,7 @@ const Home = () => {
    <WhyUs></WhyUs>
 <LogoMarquee></LogoMarquee>
 <TestimonialSection></TestimonialSection>
+<ContactPage></ContactPage>
   </div>
  );
 };
